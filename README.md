@@ -18,6 +18,11 @@
 
 顺带提一嘴，iso文件在Windows 10/11操作系统可以直接挂载，不需要第三方软件。
 
+## 限制
+
+- 请勿在Windows设备使用“启用UTF-8作为全球语言支持”，会出问题的。
+- 确保里面不能有中文，否则会乱码。
+
 ## 为何不用VHD文件？
 
 有关vhd文件相关信息可以在[这里](https://learn.microsoft.com/zh-cn/windows/win32/vstor/about-vhd)找到。
